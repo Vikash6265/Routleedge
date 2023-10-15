@@ -740,7 +740,7 @@
     }
     .grid-part{
         grid-template-columns: auto;
-        grid-template-rows:300px 180px 180px ;
+        grid-template-rows:300px 185px 185px ;
         gap: 10px;
     }
     .left{
@@ -761,7 +761,7 @@
         justify-content: center;
     }
     .box:nth-child(2) h1{
-        font-size: 22px;
+        font-size: 20px;
     }
     .box:nth-child(2) h1 span{
         font-size: 25px;
